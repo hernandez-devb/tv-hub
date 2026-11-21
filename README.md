@@ -41,6 +41,9 @@ https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/apps.json
 }
 ```
 
+- `"apk": "play"` abre la ficha de la app en Play Store (para apps que solo se distribuyen ahí, como Projectivy).
+- `"manual": true` marca fuentes que TVHub no puede descargar solo (Gofile, pCloud, apkadmin…): muestra el código para usarlo en Downloader.
+- MediaFire funciona directo, incluso si el link del código venció.
 - Si una fuente tiene `apk` y `code`, TVHub descarga del `apk` y muestra el código en la tarjeta (para usarlo en Downloader si hace falta).
 - Si solo tiene `code`, TVHub resuelve el código por su cuenta (no necesita Downloader).
 - Los códigos de todas las fuentes aparecen al pie de la tarjeta.
