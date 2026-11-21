@@ -3,24 +3,6 @@
   "notice": "",
   "apps": [
     {
-      "name": "SmartTube",
-      "package": "org.smarttube.stable",
-      "category": "Videos",
-      "versionCode": 2470,
-      "versionName": "32.80",
-      "apk": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
-      "description": "YouTube sin anuncios"
-    },
-    {
-      "name": "Streamflix",
-      "package": "com.streamflixreborn.streamflix",
-      "category": "Videos",
-      "versionCode": 182,
-      "versionName": "1.7.253",
-      "apk": "https://git.gay/streamflix-reborn2/streamflix/releases/download/v1.7.253/streamflix-v1.7.253.apk",
-      "description": "Películas y series (Streamflix Reborn)"
-    },
-    {
       "name": "Xuper TV",
       "package": "com.android.mgstv",
       "category": "TV en vivo",
@@ -31,6 +13,7 @@
       "changelog": "Probada: idéntica a la instalada en el TV box.",
       "sources": [
         { "label": "Oficial 4.99.20 (Gofile)", "code": "9033658", "versionName": "4.99.20", "manual": true },
+        { "label": "4.99.0 (MediaFire, código \"MagisTV\")", "code": "3401076", "versionCode": 49900, "versionName": "4.99.0" },
         { "label": "Oficial 4.99.5 (Gofile)", "code": "9164370", "versionName": "4.99.5", "manual": true },
         { "label": "Oficial 4.99.4 (Gofile)", "code": "8152752", "versionName": "4.99.4", "manual": true },
         { "label": "Oficial 4.99.3 (Gofile)", "code": "7230881", "versionName": "4.99.3", "manual": true },
@@ -47,8 +30,45 @@
       "versionName": "1.0.9",
       "description": "Reproductor IPTV",
       "sources": [
+        { "label": "Espejo (MediaFire)", "code": "7802291", "versionCode": 10, "versionName": "1.0.9" },
         { "label": "Página oficial", "code": "5258336", "manual": true }
       ]
+    },
+    {
+      "name": "MXL IPTV",
+      "package": "tv.mxliptv.app",
+      "category": "TV en vivo",
+      "code": "805285",
+      "versionCode": 134,
+      "versionName": "3.2.5-tvbox",
+      "description": "TV en vivo. ⚠ Pide ubicación (también en segundo plano) y datos del equipo."
+    },
+    {
+      "name": "Full TV",
+      "package": "tiempos.crnipr",
+      "category": "TV en vivo",
+      "code": "2874815",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "description": "⚠ APK re-firmado por terceros (misma firma que otras 5 apps de MediaFire): pudo ser modificado."
+    },
+    {
+      "name": "DVEX",
+      "package": "com.altared.dvex.clientes",
+      "category": "TV en vivo",
+      "code": "2873869",
+      "versionCode": 20120085,
+      "versionName": "9.9.9",
+      "description": "App de clientes: requiere cuenta del servicio."
+    },
+    {
+      "name": "TV Libre",
+      "package": "tv.libre.free",
+      "category": "TV en vivo",
+      "code": "7570645",
+      "versionCode": 4,
+      "versionName": "9.8",
+      "description": "Interfaz de teléfono (no está adaptada a control remoto)."
     },
     {
       "name": "GeeSports",
@@ -61,10 +81,143 @@
       "description": "Deportes en vivo"
     },
     {
+      "name": "SportzX",
+      "package": "com.sportzx.live",
+      "category": "Deportes",
+      "code": "4496051",
+      "versionCode": 12,
+      "versionName": "2.1",
+      "description": "Deportes en vivo"
+    },
+    {
+      "name": "AK47 Sports",
+      "package": "app.aksports.live",
+      "category": "Deportes",
+      "code": "7520142",
+      "versionCode": 3,
+      "versionName": "1.2",
+      "description": "⚠ APK re-firmado por terceros: pudo ser modificado."
+    },
+    {
+      "name": "Streamflix",
+      "package": "com.streamflixreborn.streamflix",
+      "category": "Películas y series",
+      "versionCode": 182,
+      "versionName": "1.7.253",
+      "apk": "https://git.gay/streamflix-reborn2/streamflix/releases/download/v1.7.253/streamflix-v1.7.253.apk",
+      "description": "Películas y series (Streamflix Reborn)"
+    },
+    {
+      "name": "MXL Movies",
+      "package": "tv.mxlmovies.app",
+      "category": "Películas y series",
+      "code": "912362",
+      "versionCode": 65,
+      "versionName": "3.1.2-tvbox",
+      "description": "⚠ Pide ubicación (también en segundo plano), estadísticas de uso y datos del equipo."
+    },
+    {
+      "name": "MXL Anime",
+      "package": "tv.animxlplus.app",
+      "category": "Películas y series",
+      "code": "9884481",
+      "versionCode": 13,
+      "versionName": "2.1.0-tvbox",
+      "description": "Anime. ⚠ Pide ubicación y datos del equipo."
+    },
+    {
+      "name": "Flix Vision",
+      "package": "flix.com.vision",
+      "category": "Películas y series",
+      "code": "2803131",
+      "versionCode": 60,
+      "versionName": "3.1.2r",
+      "description": "Películas y series"
+    },
+    {
+      "name": "Films Plus+",
+      "package": "com.dpsteam.filmplus",
+      "category": "Películas y series",
+      "code": "7556366",
+      "versionCode": 4,
+      "versionName": "1.4.4",
+      "description": "Películas"
+    },
+    {
+      "name": "Play Pelis",
+      "package": "com.cgm.ipelis",
+      "category": "Películas y series",
+      "code": "8787283",
+      "versionCode": 46,
+      "versionName": "1.4.8",
+      "description": "⚠ APK re-firmado por terceros: pudo ser modificado."
+    },
+    {
+      "name": "Advance Play",
+      "package": "com.advance.smart",
+      "category": "Películas y series",
+      "code": "3178562",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "description": "⚠ APK re-firmado por terceros: pudo ser modificado. Pesa ~97 MB."
+    },
+    {
+      "name": "CloudStream",
+      "package": "com.lagradost.cloudstream3",
+      "category": "Películas y series",
+      "apk": "https://github.com/recloudstream/cloudstream/releases/download/v4.9.1/4.9.1.apk",
+      "versionCode": 68,
+      "versionName": "4.9.1",
+      "description": "Código abierto (GitHub oficial). Se le agregan repositorios de contenido."
+    },
+    {
+      "name": "SmartTube",
+      "package": "org.smarttube.stable",
+      "category": "YouTube y multimedia",
+      "versionCode": 2470,
+      "versionName": "32.80",
+      "apk": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
+      "description": "YouTube sin anuncios (oficial)"
+    },
+    {
+      "name": "TizenTube",
+      "package": "io.gh.reisxd.tizentube.cobalt",
+      "category": "YouTube y multimedia",
+      "apk": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk",
+      "versionCode": 203,
+      "versionName": "2.0.3",
+      "description": "YouTube con bloqueo de anuncios y SponsorBlock (GitHub oficial). Los códigos 8220819 y 5940094 son copias re-firmadas: no se usan."
+    },
+    {
+      "name": "Kodi",
+      "package": "org.xbmc.kodi",
+      "category": "YouTube y multimedia",
+      "apk": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.3-Omega-armeabi-v7a.apk",
+      "versionCode": 2103000,
+      "versionName": "21.3",
+      "description": "Centro multimedia (oficial, kodi.tv)"
+    },
+    {
+      "name": "Projectivy Launcher",
+      "package": "com.spocky.projengmenu",
+      "category": "Unlock",
+      "apk": "play",
+      "description": "Launcher. Se instala desde Play Store (fuente oficial)."
+    },
+    {
+      "name": "NetGuard",
+      "package": "eu.faircode.netguard",
+      "category": "Unlock",
+      "apk": "https://github.com/M66B/NetGuard/releases/download/2.337/NetGuard-v2.337-release.apk",
+      "versionCode": 2026080101,
+      "versionName": "2.337",
+      "description": "Firewall sin root: bloquea internet por app (actualizaciones forzadas, anuncios, rastreo). GitHub oficial."
+    },
+    {
       "name": "TVHub",
       "package": "com.tvhub.app",
-      "versionCode": 4,
-      "versionName": "1.2.0",
+      "versionCode": 5,
+      "versionName": "1.3.0",
       "apk": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/TVHub.apk",
       "hidden": true
     }
