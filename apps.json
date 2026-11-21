@@ -1,17 +1,29 @@
 {
   "title": "Mis apps",
+  "notice": "",
   "apps": [
     {
       "name": "SmartTube",
       "package": "org.smarttube.stable",
+      "category": "Videos",
       "versionCode": 2470,
       "versionName": "32.80",
       "apk": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
       "description": "YouTube sin anuncios"
     },
     {
+      "name": "Streamflix",
+      "package": "com.streamflixreborn.streamflix",
+      "category": "Videos",
+      "versionCode": 182,
+      "versionName": "1.7.253",
+      "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
+      "description": "Películas y series"
+    },
+    {
       "name": "Xuper TV",
       "package": "com.android.mgstv",
+      "category": "TV en vivo",
       "versionCode": 49920,
       "versionName": "4.99.20",
       "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
@@ -20,26 +32,18 @@
     {
       "name": "GeeSports",
       "package": "com.live.geesports",
+      "category": "Deportes",
       "versionCode": 12,
       "versionName": "3.9",
       "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
       "description": "Deportes en vivo"
     },
     {
-      "name": "Streamflix",
-      "package": "com.streamflixreborn.streamflix",
-      "versionCode": 182,
-      "versionName": "1.7.253",
-      "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
-      "description": "Películas y series"
-    },
-    {
       "name": "TVHub",
       "package": "com.tvhub.app",
-      "versionCode": 2,
-      "versionName": "1.0.1",
-      "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
-      "description": "Esta misma app: sube aquí las versiones nuevas de TVHub",
+      "versionCode": 3,
+      "versionName": "1.1.0",
+      "apk": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/TVHub.apk",
       "hidden": true
     }
   ]
