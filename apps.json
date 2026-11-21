@@ -6,38 +6,85 @@
       "name": "Xuper TV",
       "package": "com.android.mgstv",
       "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.android.mgstv.png",
       "description": "TV en vivo. Las versiones 5.x son de pago obligatorio: no están en la lista.",
       "code": "1496940",
       "versionCode": 49920,
       "versionName": "4.99.20",
       "changelog": "Probada: idéntica a la instalada en el TV box.",
       "sources": [
-        { "label": "Oficial 4.99.20 (Gofile)", "code": "9033658", "versionName": "4.99.20", "manual": true },
-        { "label": "4.99.0 (MediaFire, código \"MagisTV\")", "code": "3401076", "versionCode": 49900, "versionName": "4.99.0" },
-        { "label": "Oficial 4.99.5 (Gofile)", "code": "9164370", "versionName": "4.99.5", "manual": true },
-        { "label": "Oficial 4.99.4 (Gofile)", "code": "8152752", "versionName": "4.99.4", "manual": true },
-        { "label": "Oficial 4.99.3 (Gofile)", "code": "7230881", "versionName": "4.99.3", "manual": true },
-        { "label": "Oficial 4.99.2 (Gofile)", "code": "2880326", "versionName": "4.99.2", "manual": true },
-        { "label": "Oficial 4.34.5 (Gofile)", "code": "9764306", "versionName": "4.34.5", "manual": true }
+        {
+          "label": "Oficial 4.99.20 (Gofile)",
+          "code": "9033658",
+          "versionName": "4.99.20",
+          "manual": true
+        },
+        {
+          "label": "4.99.0 (MediaFire, código \"MagisTV\")",
+          "code": "3401076",
+          "versionCode": 49900,
+          "versionName": "4.99.0"
+        },
+        {
+          "label": "Oficial 4.99.5 (Gofile)",
+          "code": "9164370",
+          "versionName": "4.99.5",
+          "manual": true
+        },
+        {
+          "label": "Oficial 4.99.4 (Gofile)",
+          "code": "8152752",
+          "versionName": "4.99.4",
+          "manual": true
+        },
+        {
+          "label": "Oficial 4.99.3 (Gofile)",
+          "code": "7230881",
+          "versionName": "4.99.3",
+          "manual": true
+        },
+        {
+          "label": "Oficial 4.99.2 (Gofile)",
+          "code": "2880326",
+          "versionName": "4.99.2",
+          "manual": true
+        },
+        {
+          "label": "Oficial 4.34.5 (Gofile)",
+          "code": "9764306",
+          "versionName": "4.34.5",
+          "manual": true
+        }
       ]
     },
     {
       "name": "Magma Player",
       "package": "com.magmaplayer",
       "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.magmaplayer.png",
       "code": "8157232",
       "versionCode": 10,
       "versionName": "1.0.9",
       "description": "Reproductor IPTV",
       "sources": [
-        { "label": "Espejo (MediaFire)", "code": "7802291", "versionCode": 10, "versionName": "1.0.9" },
-        { "label": "Página oficial", "code": "5258336", "manual": true }
+        {
+          "label": "Espejo (MediaFire)",
+          "code": "7802291",
+          "versionCode": 10,
+          "versionName": "1.0.9"
+        },
+        {
+          "label": "Página oficial",
+          "code": "5258336",
+          "manual": true
+        }
       ]
     },
     {
       "name": "MXL IPTV",
       "package": "tv.mxliptv.app",
       "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/tv.mxliptv.app.png",
       "code": "805285",
       "versionCode": 134,
       "versionName": "3.2.5-tvbox",
@@ -47,6 +94,7 @@
       "name": "Full TV",
       "package": "tiempos.crnipr",
       "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/tiempos.crnipr.png",
       "code": "2874815",
       "versionCode": 1,
       "versionName": "1.0.0",
@@ -56,6 +104,7 @@
       "name": "DVEX",
       "package": "com.altared.dvex.clientes",
       "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.altared.dvex.clientes.png",
       "code": "2873869",
       "versionCode": 20120085,
       "versionName": "9.9.9",
@@ -65,6 +114,7 @@
       "name": "TV Libre",
       "package": "tv.libre.free",
       "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/tv.libre.free.png",
       "code": "7570645",
       "versionCode": 4,
       "versionName": "9.8",
@@ -74,6 +124,7 @@
       "name": "GeeSports",
       "package": "com.live.geesports",
       "category": "Deportes",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.live.geesports.png",
       "apk": "https://pub-2fff4fa17ba7464a959b426a7419a698.r2.dev/GeeSports_(v3.9).apk",
       "code": "2786054",
       "versionCode": 12,
@@ -84,6 +135,7 @@
       "name": "SportzX",
       "package": "com.sportzx.live",
       "category": "Deportes",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.sportzx.live.png",
       "code": "4496051",
       "versionCode": 12,
       "versionName": "2.1",
@@ -93,6 +145,7 @@
       "name": "AK47 Sports",
       "package": "app.aksports.live",
       "category": "Deportes",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/app.aksports.live.png",
       "code": "7520142",
       "versionCode": 3,
       "versionName": "1.2",
@@ -102,6 +155,7 @@
       "name": "Streamflix",
       "package": "com.streamflixreborn.streamflix",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.streamflixreborn.streamflix.png",
       "versionCode": 182,
       "versionName": "1.7.253",
       "apk": "https://git.gay/streamflix-reborn2/streamflix/releases/download/v1.7.253/streamflix-v1.7.253.apk",
@@ -111,6 +165,7 @@
       "name": "MXL Movies",
       "package": "tv.mxlmovies.app",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/tv.mxlmovies.app.png",
       "code": "912362",
       "versionCode": 65,
       "versionName": "3.1.2-tvbox",
@@ -120,6 +175,7 @@
       "name": "MXL Anime",
       "package": "tv.animxlplus.app",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/tv.animxlplus.app.png",
       "code": "9884481",
       "versionCode": 13,
       "versionName": "2.1.0-tvbox",
@@ -129,6 +185,7 @@
       "name": "Flix Vision",
       "package": "flix.com.vision",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/flix.com.vision.png",
       "code": "2803131",
       "versionCode": 60,
       "versionName": "3.1.2r",
@@ -138,6 +195,7 @@
       "name": "Films Plus+",
       "package": "com.dpsteam.filmplus",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.dpsteam.filmplus.png",
       "code": "7556366",
       "versionCode": 4,
       "versionName": "1.4.4",
@@ -147,6 +205,7 @@
       "name": "Play Pelis",
       "package": "com.cgm.ipelis",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.cgm.ipelis.png",
       "code": "8787283",
       "versionCode": 46,
       "versionName": "1.4.8",
@@ -165,6 +224,7 @@
       "name": "CloudStream",
       "package": "com.lagradost.cloudstream3",
       "category": "Películas y series",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.lagradost.cloudstream3.png",
       "apk": "https://github.com/recloudstream/cloudstream/releases/download/v4.9.1/4.9.1.apk",
       "versionCode": 68,
       "versionName": "4.9.1",
@@ -174,6 +234,7 @@
       "name": "SmartTube",
       "package": "org.smarttube.stable",
       "category": "YouTube y multimedia",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/org.smarttube.stable.png",
       "versionCode": 2470,
       "versionName": "32.80",
       "apk": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
@@ -183,6 +244,7 @@
       "name": "TizenTube",
       "package": "io.gh.reisxd.tizentube.cobalt",
       "category": "YouTube y multimedia",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/io.gh.reisxd.tizentube.cobalt.png",
       "apk": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk",
       "versionCode": 203,
       "versionName": "2.0.3",
@@ -192,6 +254,7 @@
       "name": "Kodi",
       "package": "org.xbmc.kodi",
       "category": "YouTube y multimedia",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/org.xbmc.kodi.png",
       "apk": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.3-Omega-armeabi-v7a.apk",
       "versionCode": 2103000,
       "versionName": "21.3",
@@ -201,6 +264,7 @@
       "name": "Projectivy Launcher",
       "package": "com.spocky.projengmenu",
       "category": "Unlock",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.spocky.projengmenu.png",
       "apk": "play",
       "description": "Launcher. Se instala desde Play Store (fuente oficial)."
     },
@@ -208,6 +272,7 @@
       "name": "NetGuard",
       "package": "eu.faircode.netguard",
       "category": "Unlock",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/eu.faircode.netguard.png",
       "apk": "https://github.com/M66B/NetGuard/releases/download/2.337/NetGuard-v2.337-release.apk",
       "versionCode": 2026080101,
       "versionName": "2.337",
