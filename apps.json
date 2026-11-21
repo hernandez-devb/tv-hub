@@ -17,32 +17,54 @@
       "category": "Videos",
       "versionCode": 182,
       "versionName": "1.7.253",
-      "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
-      "description": "Películas y series"
+      "apk": "https://git.gay/streamflix-reborn2/streamflix/releases/download/v1.7.253/streamflix-v1.7.253.apk",
+      "description": "Películas y series (Streamflix Reborn)"
     },
     {
       "name": "Xuper TV",
       "package": "com.android.mgstv",
       "category": "TV en vivo",
+      "description": "TV en vivo. Las versiones 5.x son de pago obligatorio: no están en la lista.",
+      "code": "1496940",
       "versionCode": 49920,
       "versionName": "4.99.20",
-      "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
-      "description": "TV en vivo"
+      "changelog": "Probada: idéntica a la instalada en el TV box.",
+      "sources": [
+        { "label": "Oficial 4.99.20 (Gofile)", "code": "9033658", "versionName": "4.99.20", "manual": true },
+        { "label": "Oficial 4.99.5 (Gofile)", "code": "9164370", "versionName": "4.99.5", "manual": true },
+        { "label": "Oficial 4.99.4 (Gofile)", "code": "8152752", "versionName": "4.99.4", "manual": true },
+        { "label": "Oficial 4.99.3 (Gofile)", "code": "7230881", "versionName": "4.99.3", "manual": true },
+        { "label": "Oficial 4.99.2 (Gofile)", "code": "2880326", "versionName": "4.99.2", "manual": true },
+        { "label": "Oficial 4.34.5 (Gofile)", "code": "9764306", "versionName": "4.34.5", "manual": true }
+      ]
+    },
+    {
+      "name": "Magma Player",
+      "package": "com.magmaplayer",
+      "category": "TV en vivo",
+      "code": "8157232",
+      "versionCode": 10,
+      "versionName": "1.0.9",
+      "description": "Reproductor IPTV",
+      "sources": [
+        { "label": "Página oficial", "code": "5258336", "manual": true }
+      ]
     },
     {
       "name": "GeeSports",
       "package": "com.live.geesports",
       "category": "Deportes",
+      "apk": "https://pub-2fff4fa17ba7464a959b426a7419a698.r2.dev/GeeSports_(v3.9).apk",
+      "code": "2786054",
       "versionCode": 12,
       "versionName": "3.9",
-      "apk": "PEGA_AQUI_EL_LINK_DIRECTO_AL_APK",
       "description": "Deportes en vivo"
     },
     {
       "name": "TVHub",
       "package": "com.tvhub.app",
-      "versionCode": 3,
-      "versionName": "1.1.0",
+      "versionCode": 4,
+      "versionName": "1.2.0",
       "apk": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/TVHub.apk",
       "hidden": true
     }
