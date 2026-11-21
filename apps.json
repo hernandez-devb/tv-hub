@@ -261,6 +261,118 @@
       "description": "Centro multimedia (oficial, kodi.tv)"
     },
     {
+      "name": "Netflix",
+      "package": "com.netflix.ninja",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.netflix.ninja.png",
+      "apk": "play",
+      "description": "Versión para Android TV. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Disney+",
+      "package": "com.disney.disneyplus",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.disney.disneyplus.png",
+      "apk": "play",
+      "description": "Disney, Pixar, Marvel, Star Wars y ESPN. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "HBO Max",
+      "package": "com.wbd.stream",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.wbd.stream.png",
+      "apk": "play",
+      "description": "HBO, Warner y Discovery. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Prime Video",
+      "package": "com.amazon.amazonvideo.livingroom",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.amazon.amazonvideo.livingroom.png",
+      "apk": "play",
+      "description": "Versión para Android TV. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Paramount+",
+      "package": "com.cbs.ott",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.cbs.ott.png",
+      "apk": "play",
+      "description": "Versión para Android TV. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "ViX",
+      "package": "com.univision.prendetv",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.univision.prendetv.png",
+      "apk": "play",
+      "description": "TV, deportes y novelas en español (plan gratis y pago). Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Apple TV",
+      "package": "com.apple.atve.androidtv.appletv",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.apple.atve.androidtv.appletv.png",
+      "apk": "play",
+      "description": "Apple TV+. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Crunchyroll",
+      "package": "com.crunchyroll.crunchyroid",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.crunchyroll.crunchyroid.png",
+      "apk": "play",
+      "description": "Anime. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Pluto TV",
+      "package": "tv.pluto.android",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/tv.pluto.android.png",
+      "apk": "play",
+      "description": "Canales y películas gratis. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Tubi",
+      "package": "com.tubitv",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.tubitv.png",
+      "apk": "play",
+      "description": "Películas y series gratis. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Plex",
+      "package": "com.plexapp.android",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.plexapp.android.png",
+      "apk": "play",
+      "description": "Contenido gratis y tu propia biblioteca. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "YouTube",
+      "package": "com.google.android.youtube.tv",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.google.android.youtube.tv.png",
+      "apk": "play",
+      "description": "YouTube oficial para TV. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "YouTube Music",
+      "package": "com.google.android.youtube.tvmusic",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.google.android.youtube.tvmusic.png",
+      "apk": "play",
+      "description": "Música. Se instala desde Play Store (oficial)."
+    },
+    {
+      "name": "Spotify",
+      "package": "com.spotify.tv.android",
+      "category": "Streaming",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.spotify.tv.android.png",
+      "apk": "play",
+      "description": "Música y podcasts. Se instala desde Play Store (oficial)."
+    },
+    {
       "name": "Projectivy Launcher",
       "package": "com.spocky.projengmenu",
       "category": "Unlock",
@@ -281,8 +393,8 @@
     {
       "name": "TVHub",
       "package": "com.tvhub.app",
-      "versionCode": 5,
-      "versionName": "1.3.0",
+      "versionCode": 6,
+      "versionName": "1.4.0",
       "apk": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/TVHub.apk",
       "hidden": true
     }
