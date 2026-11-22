@@ -393,8 +393,8 @@
     {
       "name": "TVHub",
       "package": "com.tvhub.app",
-      "versionCode": 6,
-      "versionName": "1.4.0",
+      "versionCode": 7,
+      "versionName": "1.5.0",
       "apk": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/TVHub.apk",
       "hidden": true
     }
