@@ -58,6 +58,17 @@
       ]
     },
     {
+      "name": "Xuper Hydra",
+      "package": "com.android.mgstxNF",
+      "category": "TV en vivo",
+      "icon": "https://raw.githubusercontent.com/hernandez-devb/tv-hub/main/icons/com.android.mgstxNF.png",
+      "description": "Xuper 6.72 modificado por terceros (\"NoFace\"); se instala aparte del Xuper TV normal. ⚠ No es oficial: re-firmado, protegido contra análisis y con librerías nativas propias del modder.",
+      "code": "3955076",
+      "versionCode": 60703,
+      "versionName": "6.72.1",
+      "changelog": "Verificada el 2026-11-22: descarga de MediaFire, paquete com.android.mgstxNF, firma CN=NoFace."
+    },
+    {
       "name": "Magma Player",
       "package": "com.magmaplayer",
       "category": "TV en vivo",
